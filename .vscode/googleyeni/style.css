@@ -1,0 +1,18 @@
+.Gmail{
+    display: flex;
+    float: right;
+    width: 33.95px;
+    height: 24px;
+   
+    
+}
+.visual{
+    display: flex;
+    float: right;
+    justify-content: space-between;
+}
+.nav{
+    justify-content: space-between;
+    width: 903px;
+    height: 703px;
+}
