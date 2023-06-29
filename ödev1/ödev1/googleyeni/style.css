@@ -132,10 +132,10 @@ box-shadow:0 0 2px rgb(0, 0,0,0.05),
 .lang a :hover{
   text-decoration: underline;
 }
-.footer{
+footer{
   background: #f2f2f2;
 }
-.footer h4{
+footer h4{
   color: rgb(0, 0,0,0.54);
   font-size: 15px;
   line-height: 39.5px;
@@ -143,7 +143,7 @@ box-shadow:0 0 2px rgb(0, 0,0,0.05),
   padding-left: 29px;
   border: 1px solid #eee;
 }
-.footer a{
+footer a{
   color: #5f6368;
   display: inline-block;
   padding: 12px 11.3px;
